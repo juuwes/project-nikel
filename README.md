@@ -4,7 +4,7 @@
 </div>
 <div align="justify">
 
-Neste repositório está o projeto Nikel para controle e gestão financeira. Projeto desenvolvido durante o curso [Codaí 2.0](https://codai.growdev.com.br/), oferecido pela Growdev em parceria com a Umbler e SEPRORGS. (Nikel - A project developed for financial control and management. Using HTML, CSS and JavaScript. Project developed during the Codaí 2.0 course, offered by Growdev in partnership with Umbler and SEPRORGS). </b>
+Neste repositório está o projeto Nikel para controle e gestão financeira. Projeto desenvolvido durante o curso [Codaí 2.0](https://growdev.com.br/), oferecido pela Growdev (Nikel - A project developed for financial control and management. Using HTML, CSS and JavaScript. Project developed during the Codaí 2.0 course, offered by Growdev in partnership with Umbler and SEPRORGS). </b>
 
 ### 💻 Linguagens utilizadas: HTML, CSS e JavaScript
 <div align="center">
